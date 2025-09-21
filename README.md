@@ -7,6 +7,7 @@
   - [2.1 Bitcoin](#21-bitcoin)
   - [2.2 Solana](#22-solana)
     - [2.2.1 Solana Smart Contracts](#221-solana-smart-contracts)
+      - [2.2.1.1 Frameworks](#2211-frameworks)
 
 ## 1. Blockchain Fundamentals
 
@@ -22,10 +23,16 @@
 
 ### 2.2 Solana
 
+- [Solana Whitepaper](https://solana.com/solana-whitepaper.pdf)
 - [Solana Bootcamp Bootcamp by Solana](https://www.youtube.com/watch?v=amAq-WHAFs8&list=PLilwLeBwGuK7HN8ZnXpGAD9q6i4syhnVc)
 - [More Solana Development Resources by Solana](https://solana.com/developers)
 
 #### 2.2.1 Solana Smart Contracts
 
 - [Solana Smart Contracts Architecture](https://www.nadcab.com/blog/solana-blockchain-smart-contract-architecture)
+- [Solana Playground](https://beta.solpg.io/)
 - [Cyfrin - Rust Programming Basics](https://updraft.cyfrin.io/courses/rust-programming-basics)
+
+##### 2.2.1.1 Frameworks
+
+- [https://www.anchor-lang.com/docs](https://www.anchor-lang.com/docs)
