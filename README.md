@@ -1,5 +1,13 @@
 # Blockchain & On-chain Development Learning Resources
 
+## Table of Contents
+
+- [1. Blockchain Fundamentals](#1.-Blockchain-Fundamentals)
+- [2. Popular Blockchains](#2.-Popular-Blockchains)
+  - [2.1 Bitcoin](#2.1-Bitcoin)
+  - [2.2 Solana](#2.2-Solana)
+    - [2.2.1 Solana Smart Contracts](#2.2.1-Solana-Smart-Contracts)
+
 ## 1. Blockchain Fundamentals
 
 - [Blockchain Fundamentals in Hindi - Playlist](https://www.youtube.com/playlist?list=PLk6uZK4Gpq6WmOoJfxVDYBfx-BjlThiJO)
@@ -17,6 +25,7 @@
 - [Solana Bootcamp Bootcamp by Solana](https://www.youtube.com/watch?v=amAq-WHAFs8&list=PLilwLeBwGuK7HN8ZnXpGAD9q6i4syhnVc)
 - [More Solana Development Resources by Solana](https://solana.com/developers)
 
-#### 2.2.1 Rust
+#### 2.2.1 Solana Smart Contracts
 
+- [Solana Smart Contracts Architecture](https://www.nadcab.com/blog/solana-blockchain-smart-contract-architecture)
 - [Cyfrin - Rust Programming Basics](https://updraft.cyfrin.io/courses/rust-programming-basics)
