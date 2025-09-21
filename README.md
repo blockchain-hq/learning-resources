@@ -2,11 +2,11 @@
 
 ## Table of Contents
 
-- [1. Blockchain Fundamentals](#1.-Blockchain-Fundamentals)
-- [2. Popular Blockchains](#2.-Popular-Blockchains)
-  - [2.1 Bitcoin](#2.1-Bitcoin)
-  - [2.2 Solana](#2.2-Solana)
-    - [2.2.1 Solana Smart Contracts](#2.2.1-Solana-Smart-Contracts)
+- [1. Blockchain Fundamentals](#1-blockchain-fundamentals)
+- [2. Popular Blockchains](#2-popular-blockchains)
+  - [2.1 Bitcoin](#21-bitcoin)
+  - [2.2 Solana](#22-solana)
+    - [2.2.1 Solana Smart Contracts](#221-solana-smart-contracts)
 
 ## 1. Blockchain Fundamentals
 
