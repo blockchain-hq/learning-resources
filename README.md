@@ -36,3 +36,10 @@
 ##### 2.2.1.1 Frameworks
 
 - [https://www.anchor-lang.com/docs](https://www.anchor-lang.com/docs)
+
+#### 2.2.2 Solana Projects
+
+- [Solana Favorites dApp](https://github.com/blockchain-hq/solana-favorites-dapp)
+  - It contains Solana Program (Anchor) to store favorite number, color & hobbies on chain along with client scripts in Typescript to interact with the program.
+  - Example program is deployed at: https://explorer.solana.com/address/CeHmxb8uBgxJfYMM1uyo6XxBXszDreP9VZsB5mpUbyvE?cluster=devnet
+  - This project inspired from Solana Bootcamp 2024, and we have added one more method to delete the favorites along with client scripts.
