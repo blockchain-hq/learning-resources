@@ -8,6 +8,7 @@
   - [2.2 Solana](#22-solana)
     - [2.2.1 Solana Smart Contracts](#221-solana-smart-contracts)
       - [2.2.1.1 Frameworks](#2211-frameworks)
+    - [2.2.2 Solana Projects](#222-solana-projects)
 
 ## 1. Blockchain Fundamentals
 
