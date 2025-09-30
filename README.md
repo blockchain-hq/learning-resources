@@ -41,6 +41,14 @@
 #### 2.2.2 Solana Projects
 
 - [Solana Favorites dApp](https://github.com/blockchain-hq/solana-favorites-dapp)
+
   - It contains Solana Program (Anchor) to store favorite number, color & hobbies on chain along with client scripts in Typescript to interact with the program.
   - Example program is deployed at: https://explorer.solana.com/address/CeHmxb8uBgxJfYMM1uyo6XxBXszDreP9VZsB5mpUbyvE?cluster=devnet
   - This project inspired from Solana Bootcamp 2024, and we have added one more method to delete the favorites along with client scripts.
+
+- [Voting dApp](https://github.com/blockchain-hq/solana-voting-dapp)
+  - Its a complete dApp containing Solana program for voting (written in Rust with Anchor) and client app (NextJs) to interact with it.
+  - Demo Solana Program (deployed on Devnet) details:
+    - Program Id: `Dkx6rMoHVhkPc1zzU8u7LxNFJ4NhBj3w7fNkNUhzDZDn`
+    - View on Explorer: https://explorer.solana.com/address/Dkx6rMoHVhkPc1zzU8u7LxNFJ4NhBj3w7fNkNUhzDZDn?cluster=devnet
+  - Demo client app is deployed [here](https://solana-voting-dapp-m4wky7kpp-cryptbuilders-projects.vercel.app/)
