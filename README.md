@@ -2,6 +2,12 @@
 
 **Last Updated:** November 2025
 
+**Maintained by:** [BlockchainHQ](https://blockchainhq.xyz)
+**Github:** https://github.com/blockchain-hq
+**Telegram Group:** https://t.me/c/2450882055/1
+**Youtube:** https://www.youtube.com/@blockchainhqxyz
+**X:** https://x.com/blockchainhqxyz
+
 ---
 
 ## 📋 Table of Contents
@@ -1052,10 +1058,6 @@
 - **Difficulty:** Beginner → Advanced
 
 ---
-
-**Last Updated:** November 2025
-
-**Maintained by:** [BlockchainHQ](https://blockchainhq.xyz)
 
 **Contribute:** Found a broken link or want to add a resource? Submit a PR or issue!
 
