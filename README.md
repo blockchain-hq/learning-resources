@@ -3,14 +3,14 @@
 **Last Updated:** November 2025
 
 **Maintained by:** [BlockchainHQ](https://blockchainhq.xyz)
-**Github:** https://github.com/blockchain-hq
-**Telegram Group:** https://t.me/c/2450882055/1
-**Youtube:** https://www.youtube.com/@blockchainhqxyz
-**X:** https://x.com/blockchainhqxyz
+**Github:** [https://github.com/blockchain-hq](https://github.com/blockchain-hq)
+**Telegram Group:** [https://t.me/c/2450882055/1](https://t.me/c/2450882055/1)
+**Youtube:** [https://www.youtube.com/@blockchainhqxyz](https://www.youtube.com/@blockchainhqxyz)
+**X:** [https://x.com/blockchainhqxyz](https://x.com/blockchainhqxyz)
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [1. Blockchain Fundamentals](#1-blockchain-fundamentals)
 - [2. Popular Blockchains](#2-popular-blockchains)
@@ -30,7 +30,9 @@
 - [10. Authentication & User Management](#10-authentication--user-management)
 - [11. Advanced Topics](#11-advanced-topics)
 - [12. Example Projects](#12-example-projects)
-- [13. Community & Career Resources](#13-community--career-resources)
+- [13. Harkirat Singh - 100xDevs Cohort](#13-harkirat-singh---100xdevs-cohort)
+- [14. Community & Career Resources](#14-community--career-resources)
+- [15. Gamified Learning Platforms](#15-gamified-learning-platforms)
 
 ---
 
@@ -73,28 +75,24 @@
   [https://risein.com/courses](https://risein.com/courses)  
   _Expert-led courses on blockchain development_
 
+- **MetaNA - 10 Best Blockchain Development Resources 2025**  
+  [https://metana.io/blog/](https://metana.io/blog/)  
+  _Curated learning paths and resources_
+
 ### Core Concepts
 
 **Cryptographic Hashing (SHA-256):**
 
-- [SHA-256 Algorithm Explained](https://www.ssldragon.com/blog/sha-256-algorithm/)
-- [SSL Dragon - SHA-256 Deep Dive](https://www.ssldragon.com/blog/sha-256-algorithm/)
+- [SSL Dragon - SHA-256 Algorithm Explained](https://www.ssldragon.com/blog/sha-256-algorithm/)
 
 **Consensus Mechanisms:**
 
 - [Kraken - Proof of Work vs Proof of Stake](https://www.kraken.com/learn/proof-of-work-vs-proof-of-stake)
-- [Rapid Innovation - Consensus Mechanisms Guide](https://rapidinnovation.io/blockchain-consensus-mechanisms/)
-- [Hedera - PoS vs PoW](https://hedera.com/learning/proof-of-stake-pos-vs-proof-of-work-pow)
 
 **Blockchain Explorer & Visualization:**
 
 - [AndersM Blockchain Interactive Demo](https://andersbrownworth.com/blockchain/)  
   _Visual simulator to understand hashing and mining_
-
-**Bitcoin Supply & Economics:**
-
-- [Understanding Bitcoin's 21 Million Cap](https://www.unchained.com/blog/bitcoin-21-million-cap/)
-- [River - Can Bitcoin's Hard Cap Be Changed?](https://river.com/learn/can-bitcoin-hard-cap-changed/)
 
 ---
 
@@ -111,7 +109,7 @@
   [https://www.youtube.com/watch?v=bBC-nXj3Ng4](https://www.youtube.com/watch?v=bBC-nXj3Ng4)  
   _Excellent visual explanation (available in multiple languages)_
 
-- **Coinbase - Bitcoin Whitepaper Simplified**  
+- **Coinbase Learn - Bitcoin Basics**  
   [https://www.coinbase.com/learn/crypto-basics/what-is-bitcoin](https://www.coinbase.com/learn/crypto-basics/what-is-bitcoin)
 
 **Bitcoin Development:**
@@ -130,9 +128,6 @@
 
 - **Ethereum Development Documentation**  
   [https://ethereum.org/en/developers/docs/](https://ethereum.org/en/developers/docs/)
-
-- **History of Ethereum**  
-  [WisdomTree - Ethereum's Journey from 2013](https://wisdomtree.com/blog/ethereums-history)
 
 **Ethereum Stats (Nov 2025):**
 
@@ -175,10 +170,6 @@
   [https://arbitrum.foundation/](https://arbitrum.foundation/)
 - **Arbitrum Documentation**  
   [https://docs.arbitrum.io/](https://docs.arbitrum.io/)
-- **Kraken - What is Arbitrum?**  
-  [https://www.kraken.com/learn/what-is-arbitrum-arb](https://www.kraken.com/learn/what-is-arbitrum-arb)
-- **Gemini - Arbitrum Guide**  
-  [https://www.gemini.com/cryptopedia/arbitrum-layer-2-ethereum-scaling](https://www.gemini.com/cryptopedia/arbitrum-layer-2-ethereum-scaling)
 - Features: Optimistic Rollups, 10x cheaper than Ethereum, EVM compatible
 
 **Polygon (Layer 2 + Sidechains)**
@@ -187,10 +178,6 @@
   [https://polygon.technology/](https://polygon.technology/)
 - **Polygon Docs**  
   [https://docs.polygon.technology/](https://docs.polygon.technology/)
-- **Polygon Layer 2 Guide**  
-  [https://polygon.technology/blog/polygon-2-0-roadmap](https://polygon.technology/blog/polygon-2-0-roadmap)
-- **Gemini - Polygon Crypto**  
-  [https://www.gemini.com/cryptopedia/polygon-crypto-matic-network](https://www.gemini.com/cryptopedia/polygon-crypto-matic-network)
 
 **NEAR Protocol**
 
@@ -207,21 +194,19 @@
 
 **Learn Solidity:**
 
-**Beginner:**
+**Beginner - Interactive & Gamified:**
 
-- **Chainlink - Hello World Smart Contract**  
-  [https://chain.link/education-hub/how-to-create-smart-contract](https://chain.link/education-hub/how-to-create-smart-contract)  
-  _Step-by-step tutorial for absolute beginners_
-
-- **Rise In - Beginner's Guide to Solidity**  
-  [https://risein.com/blog/a-beginners-guide-to-learning-solidity](https://risein.com/blog/a-beginners-guide-to-learning-solidity)
-
-- **QuickNode - Write Your First Smart Contract**  
-  [https://quicknode.com/guides/ethereum/how-to-write-a-smart-contract-using-solidity](https://quicknode.com/guides/ethereum/how-to-write-a-smart-contract-using-solidity)
+- **CryptoZombies - Interactive Solidity Tutorial**  
+  [https://cryptozombies.io/](https://cryptozombies.io/)  
+  _Game-based learning. Build zombies while learning Solidity. FREE, 400k+ users_
 
 - **Cyfrin Updraft - Solidity Course**  
   [https://updraft.cyfrin.io/courses/solidity](https://updraft.cyfrin.io/courses/solidity)  
   _Comprehensive, project-based course. FREE_
+
+- **Chainlink - Hello World Smart Contract**  
+  [https://chain.link/education-hub/how-to-create-smart-contract](https://chain.link/education-hub/how-to-create-smart-contract)  
+  _Step-by-step beginner tutorial_
 
 - **Dapp University - Solidity for Beginners**  
   [https://www.dappuniversity.com/articles/solidity-tutorial](https://www.dappuniversity.com/articles/solidity-tutorial)  
@@ -240,20 +225,23 @@
 
 **Advanced:**
 
-- **Web3.career - Full Web3 Tutorial (Solidity + JavaScript)**  
-  [https://web3.career/web3-tutorial](https://web3.career/web3-tutorial)
+- **freeCodeCamp - Full Stack Solidity, Hardhat & Ethers.js Course**  
+  [https://www.youtube.com/watch?v=gyMwXuJrbJQ](https://www.youtube.com/watch?v=gyMwXuJrbJQ)  
+  _32-hour comprehensive course by Patrick Collins_
 
-- **Dev.to - Web3 Tutorial: Hardhat, React, Ethers.js**  
-  [https://dev.to/risein/web3-tutorial-build-dapp-with-hardhat-react-and-ethersjs-1l3j](https://dev.to/risein/web3-tutorial-build-dapp-with-hardhat-react-and-ethersjs-1l3j)
+- **Patrick Collins - Solidity, Blockchain, & Smart Contracts (YouTube)**  
+  [https://www.youtube.com/watch?v=M576WGiDBdQ](https://www.youtube.com/watch?v=M576WGiDBdQ)  
+  _Full comprehensive guide (8+ hours)_
+
+- **Learn Web3 - Structured Web3 Learning Path**  
+  [https://www.learnweb3.io/](https://www.learnweb3.io/)  
+  _Beginner to advanced curriculum_
 
 **Practice & IDEs:**
 
 - **Remix IDE (Browser-based)**  
   [https://remix.ethereum.org/](https://remix.ethereum.org/)  
   _Write, compile, and deploy contracts in your browser. No installation needed_
-
-- **Forbes - What is Remix IDE?**  
-  [https://www.forbes.com/advisor/investing/what-is-remix-ethereum-ide/](https://www.forbes.com/advisor/investing/what-is-remix-ethereum-ide/)
 
 - **MetaNA - Best Solidity IDEs and Plugins**  
   [https://metana.io/blog/best-solidity-ides-and-plugins-for-developers/](https://metana.io/blog/best-solidity-ides-and-plugins-for-developers/)
@@ -271,6 +259,10 @@
 
 - **Rustlings - Interactive Rust Lessons**  
   [https://github.com/rust-lang/rustlings](https://github.com/rust-lang/rustlings)
+
+- **Harkirat Singh - Rust Tutorial for Beginners (YouTube)**  
+  [https://www.youtube.com/watch?v=AHkZLJml0hE](https://www.youtube.com/watch?v=AHkZLJml0hE)  
+  _4-hour comprehensive Rust tutorial by Harkirat Singh covering memory, ownership, borrowing_
 
 **Solana Smart Contracts:**
 
@@ -299,11 +291,6 @@
 
 - **Official Hardhat**  
   [https://hardhat.org/](https://hardhat.org/)
-- **MetaMask - Hardhat vs Foundry**  
-  [https://metamask.io/blog/hardhat-versus-foundry/](https://metamask.io/blog/hardhat-versus-foundry/)
-- **Dev.to - Hardhat vs Foundry Comparison**  
-  [https://dev.to/jamiescript/hardhat-vs-foundry-which-is-better-or-should-you-use-both-36e2](https://dev.to/jamiescript/hardhat-vs-foundry-which-is-better-or-should-you-use-both-36e2)
-- Features: Plugin ecosystem, flexible environment, JavaScript/TypeScript
 - Best for: Complex projects requiring customization
 
 **Foundry (Rust-based, Solidity-focused)**
@@ -311,7 +298,6 @@
 - **Official Foundry Book**  
   [https://book.getfoundry.sh/](https://book.getfoundry.sh/)
 - Features: Fast testing, native Solidity, minimal dependencies
-- Best for: Performance-critical projects, Solidity developers
 
 **Truffle Suite**
 
@@ -327,7 +313,7 @@
   [https://www.anchor-lang.com/docs](https://www.anchor-lang.com/docs)
 - **GitHub Repository**  
   [https://github.com/coral-xyz/anchor](https://github.com/coral-xyz/anchor)
-- Features: Abstraction over Solana Program Library, security best practices built-in
+- Features: Abstraction over Solana Program Library, security best practices
 
 **Solana Program Library (SPL)**
 
@@ -339,8 +325,6 @@
 ## 5. Web3 Development Platforms
 
 ### thirdweb
-
-**Overview:**
 
 - **Official thirdweb**  
   [https://thirdweb.com/](https://thirdweb.com/)
@@ -355,18 +339,9 @@
 - In-app wallets with social/email login
 - Account abstraction support (ERC4337/EIP7702)
 - 500+ external wallets supported
-- Built-in infrastructure (RPC, bundler, paymaster)
 - React hooks and UI components
-- Cross-platform (Web, React Native)
-
-**Tutorials:**
-
-- **YouTube - Getting Started with thirdweb Connect SDK**  
-  [https://www.youtube.com/watch?v=mwqPKkGW2lQ](https://www.youtube.com/watch?v=mwqPKkGW2lQ)
 
 ### Alchemy
-
-**Overview:**
 
 - **Official Alchemy**  
   [https://www.alchemy.com/](https://www.alchemy.com/)
@@ -379,7 +354,6 @@
 - Smart Wallets (Account Abstraction)
 - Enhanced APIs for NFTs, transfers, and more
 - Webhooks for real-time events
-- $100+ billion in transaction volume facilitated
 
 ---
 
@@ -393,8 +367,6 @@
   [https://docs.ethers.org/](https://docs.ethers.org/)
 - **ethers.js on npm**  
   [https://www.npmjs.com/package/ethers](https://www.npmjs.com/package/ethers)
-- **Tatum - ethers.js vs web3.js Comparison**  
-  [https://tatum.io/blog/ethers-js-vs-web3-js/](https://tatum.io/blog/ethers-js-vs-web3-js/)
 - Simpler API, smaller bundle size, better documentation
 
 **web3.js (Industry standard)**
@@ -403,7 +375,7 @@
   [https://web3js.readthedocs.io/](https://web3js.readthedocs.io/)
 - **web3.js on npm**  
   [https://www.npmjs.com/package/web3](https://www.npmjs.com/package/web3)
-- Larger ecosystem, more mature, heavier bundle
+- Larger ecosystem, more mature
 
 ### React Hooks & UI Libraries
 
@@ -428,15 +400,11 @@
 
 - **Etherscan**  
   [https://etherscan.io/](https://etherscan.io/)
-  - View all transactions, smart contracts, addresses
-  - Real-time gas tracker
-  - Code verification and ABI decoding
 
 **Solana:**
 
 - **Solscan**  
-  [https://solscan.io/](https://solscan.io/)  
-  _Solana's equivalent to Etherscan_
+  [https://solscan.io/](https://solscan.io/)
 - **Official Solana Explorer**  
   [https://explorer.solana.com/](https://explorer.solana.com/)
 
@@ -452,30 +420,12 @@
 
 ### The Graph Protocol (Decentralized Indexing)
 
-**Overview:**
-
 - **Official The Graph**  
   [https://thegraph.com/](https://thegraph.com/)
 - **Graph Documentation**  
   [https://thegraph.com/docs/](https://thegraph.com/docs/)
 - **Graph Studio**  
   [https://thegraph.com/studio/](https://thegraph.com/studio/)
-
-**Learning:**
-
-- **Store AIcerts - The Graph Protocol Guide**  
-  [https://store.aicerts.ai/courses/graph-protocol](https://store.aicerts.ai/courses/graph-protocol)
-- **SettleMint - Subgraphs & Blockchain Data Indexing**  
-  [https://console.settlemint.com/subgraphs](https://console.settlemint.com/subgraphs)
-- **LeewayHertz - Blockchain Indexing Protocol Overview**  
-  [https://www.leewayhertz.com/blockchain-indexing-protocol/](https://www.leewayhertz.com/blockchain-indexing-protocol/)
-
-**Key Concepts:**
-
-- Subgraphs: Define what blockchain data to index
-- GraphQL: Query indexed data efficiently
-- Indexers: Run nodes that process and serve data
-- Curators & Delegators: Network participants that secure the protocol
 
 ### Data Providers
 
@@ -503,8 +453,7 @@
 **Ethereum Testnets:**
 
 - **Chainlink Sepolia Faucet**  
-  [https://faucets.chain.link/](https://faucets.chain.link/)  
-  _Get 0.5 test ETH per day_
+  [https://faucets.chain.link/](https://faucets.chain.link/)
 - **Alchemy Sepolia Faucet**  
   [https://sepoliafaucet.com/](https://sepoliafaucet.com/)
 - **Google Cloud Ethereum Faucet**  
@@ -513,14 +462,12 @@
 **Solana:**
 
 - **Solana Faucet**  
-  [https://faucet.solana.com/](https://faucet.solana.com/)  
-  _Free SOL on devnet/testnet_
+  [https://faucet.solana.com/](https://faucet.solana.com/)
 
 **Multi-Chain:**
 
 - **Circle Testnet Faucet**  
-  [https://faucet.circle.com/](https://faucet.circle.com/)  
-  _Free testnet USDC and EURC on 12+ chains_
+  [https://faucet.circle.com/](https://faucet.circle.com/)
 - **Moralis Faucets**  
   [https://moralis.io/faucets/](https://moralis.io/faucets/)
 - **Alchemy Faucet**  
@@ -531,12 +478,10 @@
 **Hardhat Testing**
 
 - [https://hardhat.org/hardhat-runner/docs/guides/test](https://hardhat.org/hardhat-runner/docs/guides/test)
-- JavaScript/TypeScript testing with Chai
 
 **Foundry Forge Testing**
 
 - [https://book.getfoundry.sh/forge/](https://book.getfoundry.sh/forge/)
-- Solidity-native testing framework
 
 **Anchor Testing (Solana)**
 
@@ -545,33 +490,6 @@
 ---
 
 ## 9. Security & Best Practices
-
-### Gas Optimization
-
-**Gas Optimization Guides:**
-
-- **NadCAB - Gas Optimization Tips**  
-  [https://www.nadcab.com/blog/gas-optimization-tips](https://www.nadcab.com/blog/gas-optimization-tips)
-- **Rapid Innovation - Polygon Gas Optimization 2024**  
-  [https://rapidinnovation.io/polygon-smart-contract-gas-optimization/](https://rapidinnovation.io/polygon-smart-contract-gas-optimization/)
-- **AIcerts - Developer's Guide to EVM Smart Contracts Gas**  
-  [https://store.aicerts.ai/courses/evm-gas-optimization](https://store.aicerts.ai/courses/evm-gas-optimization)
-
-**Key Techniques:**
-
-- Minimize storage operations (most expensive)
-- Use memory and stack where possible
-- Batch transactions into single operations
-- Use view/pure functions where applicable
-- Avoid redundant computations
-- Use smaller data types efficiently
-- Emit events wisely
-
-**Gas Analysis Tools:**
-
-- Remix built-in gas profiler
-- Hardhat gas reporter plugin
-- Etherscan gas tracker
 
 ### Smart Contract Standards & Libraries
 
@@ -587,25 +505,22 @@
 **ERC Standards:**
 
 - **ERC20** (Fungible Tokens)  
-  [https://docs.openzeppelin.com/contracts/4.x/erc20](https://docs.openzeppelin.com/contracts/4.x/erc20)
+  [https://docs.openzeppelin.com/contracts/5.x/erc20](https://docs.openzeppelin.com/contracts/5.x/erc20)
 - **ERC721** (Non-Fungible Tokens)  
-  [https://docs.openzeppelin.com/contracts/4.x/erc721](https://docs.openzeppelin.com/contracts/4.x/erc721)
+  [https://docs.openzeppelin.com/contracts/5.x/erc721](https://docs.openzeppelin.com/contracts/5.x/erc721)
 - **ERC1155** (Multi-Token Standard)  
-  [https://docs.openzeppelin.com/contracts/4.x/erc1155](https://docs.openzeppelin.com/contracts/4.x/erc1155)
+  [https://docs.openzeppelin.com/contracts/5.x/erc1155](https://docs.openzeppelin.com/contracts/5.x/erc1155)
 
 **Security Audits:**
 
 - OpenZeppelin Defender  
   [https://defender.openzeppelin.com/](https://defender.openzeppelin.com/)
-- MythX Integration in Remix
 
 ---
 
 ## 10. Authentication & User Management
 
 ### Web3Auth
-
-**Overview:**
 
 - **Official Web3Auth**  
   [https://web3auth.io/](https://web3auth.io/)
@@ -618,15 +533,7 @@
 - Multi-factor authentication (MFA)
 - Multi-Party Computation (MPC)
 - Account Abstraction support
-- Blockchain agnostic (EVM, Solana, Bitcoin, etc.)
-- Social logins (Google, GitHub, Discord, etc.)
-
-**Tutorials:**
-
-- **MetaMask - Create Chain Agnostic Wallet with Web3Auth**  
-  [https://docs.metamask.io/guide/web3-auth.html](https://docs.metamask.io/guide/web3-auth.html)
-- **miniOrange - Web3 Authentication for Enterprise**  
-  [https://www.miniorange.com/blog/web3-authentication-for-fast-and-secure-enterprise-logins/](https://www.miniorange.com/blog/web3-authentication-for-fast-and-secure-enterprise-logins/)
+- Social logins
 
 ### Wallet Integration
 
@@ -634,10 +541,8 @@
 
 - **Official MetaMask**  
   [https://metamask.io/](https://metamask.io/)
-- **MetaMask Developer Documentation**  
+- **Developer Documentation**  
   [https://docs.metamask.io/](https://docs.metamask.io/)
-- **Setup Guide**  
-  [https://support.metamask.io/getting-started/](https://support.metamask.io/getting-started/)
 
 **Phantom (Solana)**
 
@@ -650,7 +555,6 @@
 
 - **Official WalletConnect**  
   [https://walletconnect.com/](https://walletconnect.com/)
-- Protocol-agnostic wallet connection standard
 
 ---
 
@@ -661,53 +565,34 @@
 **Ethereum DeFi Protocols:**
 
 - **Uniswap** (Decentralized Exchange)  
-  [https://app.uniswap.org/](https://app.uniswap.org/)  
-  Largest DEX by volume
+  [https://app.uniswap.org/](https://app.uniswap.org/)
 
 - **Aave** (Lending & Borrowing)  
-  [https://aave.com/](https://aave.com/)  
-  Largest lending protocol
+  [https://aave.com/](https://aave.com/)
 
 - **Compound** (Money Markets)  
   [https://compound.finance/](https://compound.finance/)
 
-- **Curve Finance** (Stablecoin DEX)  
-  [https://curve.fi/](https://curve.fi/)
-
 **Solana DeFi Protocols:**
 
 - **Jupiter** (DEX Aggregator)  
-  [https://jup.ag/](https://jup.ag/)  
-  Finds best prices across Solana DEXs
+  [https://jup.ag/](https://jup.ag/)
 
 - **Marinade Finance** (Liquid Staking)  
-  [https://marinade.finance/](https://marinade.finance/)  
-  Stake SOL, get mSOL liquid staking token
-
-- **Jito** (MEV + Liquid Staking)  
-  [https://www.jito.network/](https://www.jito.network/)
+  [https://marinade.finance/](https://marinade.finance/)
 
 ### NFTs & Digital Assets
-
-**NFT Standards:**
-
-- ERC721 (Individual unique tokens)
-- ERC1155 (Batch of tokens)
-- SPL Tokens (Solana standard)
 
 **NFT Marketplaces:**
 
 - **OpenSea** (Multi-chain)  
-  [https://opensea.io/](https://opensea.io/)  
-  Largest NFT marketplace
+  [https://opensea.io/](https://opensea.io/)
 
 - **Magic Eden** (Solana & Multi-chain)  
-  [https://magiceden.io/](https://magiceden.io/)  
-  Leading Solana marketplace, now multi-chain
+  [https://magiceden.io/](https://magiceden.io/)
 
 - **Tensor** (Solana)  
-  [https://www.tensor.trade/](https://www.tensor.trade/)  
-  Professional trading platform
+  [https://www.tensor.trade/](https://www.tensor.trade/)
 
 ### Decentralized Storage
 
@@ -715,19 +600,9 @@
 
 - **Official IPFS**  
   [https://ipfs.io/](https://ipfs.io/)
-- **IPFS for NFT Metadata**  
-  [https://www.leewayhertz.com/blog/how-to-set-up-decentralized-data-storage-for-nfts-using-ipfs/](https://www.leewayhertz.com/blog/how-to-set-up-decentralized-data-storage-for-nfts-using-ipfs/)
+
 - **Pinata (IPFS Gateway)**  
   [https://www.pinata.cloud/](https://www.pinata.cloud/)
-- **Niftys - IPFS for NFT Metadata**  
-  [https://www.niftys.com/blog/2025/01/why-nft-metadata-should-be-hosted-on-ipfs](https://www.niftys.com/blog/2025/01/why-nft-metadata-should-be-hosted-on-ipfs)
-
-**Benefits:**
-
-- Content addressing (permanent, immutable links)
-- Decentralized (no single point of failure)
-- Censorship resistant
-- Perfect for NFT metadata and media storage
 
 ### Oracles & External Data
 
@@ -737,40 +612,6 @@
   [https://chain.link/](https://chain.link/)
 - **Chainlink Documentation**  
   [https://docs.chain.link/](https://docs.chain.link/)
-- **Chainlink Data Feeds**  
-  [https://data.chain.link/](https://data.chain.link/)
-- **Cyfrin - Oracles and Chainlink Overview**  
-  [https://updraft.cyfrin.io/courses/advanced-foundry/oracles](https://updraft.cyfrin.io/courses/advanced-foundry/oracles)
-- **Tiingo - Chainlink Oracles Guide**  
-  [https://www.tiingo.com/blog/chainlink-oracles-bridging-blockchain-real-world-data](https://www.tiingo.com/blog/chainlink-oracles-bridging-blockchain-real-world-data)
-
-**Use Cases:**
-
-- Price feeds (crypto, stocks, commodities)
-- Randomness
-- Cross-chain messaging
-- Automation
-
-### Layer 2 Scaling
-
-**Understanding Rollups:**
-
-- **Optimistic Rollups** (Arbitrum, Optimism)
-
-  - Assume transactions are valid unless disputed
-  - 7-day challenge period
-  - Lower security assumptions
-
-- **Zero-Knowledge Rollups** (StarkNet, zkSync)
-  - Use cryptographic proofs
-  - Instant finality
-  - Higher security guarantees
-
-**Polygon Scaling Solutions:**
-
-- **Polygon PoS Chain** (Sidechain)
-- **Polygon zkEVM** (Zero-Knowledge Rollup)
-- **Polygon CDK** (Custom Development Kit)
 
 ---
 
@@ -782,58 +623,85 @@
 
 - **GitHub Repository**  
   [https://github.com/blockchain-hq/solana-favorites-dapp](https://github.com/blockchain-hq/solana-favorites-dapp)
-- **What it teaches:**
-  - Solana Program (Anchor) to store data on-chain
-  - Client scripts in TypeScript to interact with the program
-  - Example program deployed on devnet
-  - How to build complete dApp with frontend
-- **Deployed Program Address:** CeHmxb8uBgxJfYMM1uyo6XxBXszDreP9VZsB5mpUbyvE (devnet)
-- **Inspired by:** Solana Bootcamp 2024 with added delete functionality
+- Deployed Program: CeHmxb8uBgxJfYMM1uyo6XxBXszDreP9VZsB5mpUbyvE (devnet)
 
 **Voting dApp (Complete Example)**
 
 - **GitHub Repository**  
   [https://github.com/blockchain-hq/solana-voting-dapp](https://github.com/blockchain-hq/solana-voting-dapp)
-- **What it includes:**
-  - Complete Solana program written in Rust with Anchor
-  - Frontend client app built with Next.js
-  - Full voting logic on-chain
-  - Beautiful UI for interaction
-- **Deployed Program ID:** Dkx6rMoHVhkPc1zzU8u7LxNFJ4NhBj3w7fNkNUhzDZDn (devnet)
-- **Explorer:** [https://explorer.solana.com/address/Dkx6rMoHVhkPc1zzU8u7LxNFJ4NhBj3w7fNkNUhzDZDn?cluster=devnet](https://explorer.solana.com/address/Dkx6rMoHVhkPc1zzU8u7LxNFJ4NhBj3w7fNkNUhzDZDn?cluster=devnet)
+- Deployed Program ID: Dkx6rMoHVhkPc1zzU8u7LxNFJ4NhBj3w7fNkNUhzDZDn (devnet)
 - **Demo App:** [https://solana-voting-dapp-m4wky7kpp-cryptbuilders-projects.vercel.app/](https://solana-voting-dapp-m4wky7kpp-cryptbuilders-projects.vercel.app/)
 
-### Learning by Doing
+### Recommended Project Ideas
 
-**Recommended Project Ideas (Beginner to Advanced):**
-
-1. **Simple Counter** (Beginner)
-
-   - Deploy a contract that stores and increments a number
-   - Learn: State variables, functions, transactions
-
-2. **Token Contract** (Intermediate)
-
-   - Create your own ERC20 or SPL token
-   - Learn: Standards, minting, burning, transfers
-
-3. **Voting System** (Intermediate)
-
-   - Create a voting dApp (like the Solana example above)
-   - Learn: Smart contracts + frontend integration
-
-4. **NFT Marketplace** (Advanced)
-
-   - Buy/sell NFTs with escrow
-   - Learn: ERC721, payments, marketplace patterns
-
-5. **DeFi Protocol** (Advanced)
-   - Lending pool or AMM
-   - Learn: DeFi mechanics, security, optimization
+1. **Simple Counter** (Beginner) - Deploy a contract that stores and increments a number
+2. **Token Contract** (Intermediate) - Create your own ERC20 or SPL token
+3. **Voting System** (Intermediate) - Create a voting dApp (like the Solana example)
+4. **NFT Marketplace** (Advanced) - Buy/sell NFTs with escrow
+5. **DeFi Protocol** (Advanced) - Lending pool or AMM
 
 ---
 
-## 13. Community & Career Resources
+## 13. Harkirat Singh - 100xDevs Cohort
+
+### Overview
+
+Harkirat Singh's 100xDevs is one of the most comprehensive blockchain development courses, with structured curriculum covering Web3 fundamentals to advanced smart contract development.
+
+### Learning Resources
+
+**Main Cohort Website:**
+
+- **100xDevs Harkirat Official**  
+  [https://harkirat.classx.co.in/](https://harkirat.classx.co.in/)
+- **Blog & Syllabus**  
+  [https://blog.100xdevs.com/](https://blog.100xdevs.com/)
+- **Slides & Projects Repository**  
+  [https://projects.100xdevs.com/](https://projects.100xdevs.com/)
+
+### GitHub Resources (Student Notes & Code)
+
+**Harkirat Singh - 100xDevs Cohort 3 Web3 Complete Curriculum**
+
+- **100xDevs Web3 Cohort Repository**  
+  [https://github.com/Bharat2044/100xDevs-Cohort3-Web3](https://github.com/Bharat2044/100xDevs-Cohort3-Web3)
+- Includes: Lecture codes, assignments, solutions, and notes for all Web3 topics
+
+**Harkirat Singh - Course Code & Notes (Comprehensive)**
+
+- **SartHak Course Notes Repository**  
+  [https://github.com/SartHak-0-Sach/Harkirat-Singh-course_code_and_notes](https://github.com/SartHak-0-Sach/Harkirat-Singh-course_code_and_notes)
+- 252+ stars, well-organized with full course materials
+
+### Cohort 3.0 Web3 Curriculum (As per Harkirat's Course)
+
+**Web3 Basics Module:**
+
+- General Web3 concepts
+- ETH client-side apps and adapters
+- Understanding EVM
+- Solana client-side apps and adapters
+- Understanding Solana data model
+
+**Web3 Advance Module:**
+
+- Solidity basics (Remix)
+- Solidity advanced topics
+- Writing smart contracts and frontends
+- Rust basics and advanced
+- Solana data model and programs
+- Web2 + Web3 use cases (indexing, sweeping)
+
+**Projects & Smart Contracts:**
+
+- ERC721 NFT contracts
+- Escrow contracts
+- DeFi protocols
+- Full-stack dApps
+
+---
+
+## 14. Community & Career Resources
 
 ### Solana India Community
 
@@ -843,14 +711,6 @@
   [https://in.superteam.fun/](https://in.superteam.fun/)
 - **Earn Bounties**  
   [https://earn.superteam.fun/](https://earn.superteam.fun/)
-- **Community Discord**  
-  Join via website
-- **What They Offer:**
-  - 💰 Bounties to earn crypto
-  - 🎓 Learning resources
-  - 🏆 Hackathons
-  - 🤝 Networking with Web3 companies
-  - 💼 Job placement assistance
 
 ### DAOs (Decentralized Autonomous Organizations)
 
@@ -860,70 +720,58 @@
   [https://www.coinbase.com/learn/crypto-basics/what-is-a-dao](https://www.coinbase.com/learn/crypto-basics/what-is-a-dao)
 - **Ethereum.org - DAOs**  
   [https://ethereum.org/en/dao/](https://ethereum.org/en/dao/)
-- **Britannica - What Are DAOs & How Do They Operate?**  
-  [https://www.britannica.com/technology/what-are-daos](https://www.britannica.com/technology/what-are-daos)
-- **Drishti IAS - Decentralized Autonomous Organizations**  
-  [https://www.drishtiias.com/current-affairs-news-analysis-editorials/DAOs](https://www.drishtiias.com/current-affairs-news-analysis-editorials/DAOs)
-- **GeeksforGeeks - DAO in Blockchain**  
-  [https://www.geeksforgeeks.org/dao-decentralized-autonomous-organization-in-blockchain/](https://www.geeksforgeeks.org/dao-decentralized-autonomous-organization-in-blockchain/)
-- **Hedera - Understanding DAOs**  
-  [https://hedera.com/learning/understanding-daos-decentralized-autonomous-organizations](https://hedera.com/learning/understanding-daos-decentralized-autonomous-organizations)
 
 ### Job Opportunities
 
 **Job Boards:**
 
 - **Web3 Career**  
-  [https://web3.career/](https://web3.career/)  
-  Job board specifically for Web3 roles
-
+  [https://web3.career/](https://web3.career/)
 - **Superteam Opportunities**  
-  [https://earn.superteam.fun/](https://earn.superteam.fun/)  
-  Bounties and projects with competitive pay
-
+  [https://earn.superteam.fun/](https://earn.superteam.fun/)
 - **Cryptocurrency Jobs**  
   [https://cryptocurrencyjobs.co/](https://cryptocurrencyjobs.co/)
-
-- **LinkedIn Web3 Jobs**  
-  [https://www.linkedin.com/jobs/search/?keywords=web3](https://www.linkedin.com/jobs/search/?keywords=web3)
-
-- **Indeed Web3**  
-  [https://in.indeed.com/q-Web3-Developer-jobs.html](https://in.indeed.com/q-Web3-Developer-jobs.html)
-
-**In-Demand Roles:**
-
-- Smart Contract Developer (Solidity, Rust, Move)
-- Blockchain Engineer
-- Full-Stack Web3 Developer
-- DeFi Protocol Developer
-- NFT Platform Developer
-- Web3 Security Auditor
-- Protocol Designer
 
 **Average Salaries (India):**
 
 - Junior Developer: ₹6-12 LPA
 - Mid-Level: ₹12-25 LPA
 - Senior Developer: ₹25-50+ LPA
-- Remote opportunities with global companies often pay in USD (2-5x higher)
 
 ### Learning Communities
+
+**Reddit Communities (Verified & Active):**
+
+- **r/web3** - Web3 discussions and resources  
+  [https://www.reddit.com/r/web3/](https://www.reddit.com/r/web3/)
+
+- **r/ethereum** - Ethereum development and updates  
+  [https://www.reddit.com/r/ethereum/](https://www.reddit.com/r/ethereum/)
+
+- **r/solana** - Solana ecosystem discussions  
+  [https://www.reddit.com/r/solana/](https://www.reddit.com/r/solana/)
+
+- **r/learnprogramming** - General programming help (blockchain resources available)  
+  [https://www.reddit.com/r/learnprogramming/](https://www.reddit.com/r/learnprogramming/)
+
+- **r/blockchain** - Blockchain technology discussions  
+  [https://www.reddit.com/r/blockchain/](https://www.reddit.com/r/blockchain/)
 
 **YouTube Channels:**
 
 - **Dapp University** - Smart contract tutorials
 - **Whiteboard Crypto** - Blockchain concepts explained
 - **Patrick Collins (Cyfrin)** - Advanced Solidity & security
-- **Solana Bootcamp Official** - Solana development
+- **Harkirat Singh (100xDevs)** - Web3 and full-stack development
 
 **Twitter/X Accounts to Follow:**
 
 - @VitalikButerin - Ethereum founder
 - @aeyakovenko - Solana founder
+- @harkiratsmile - Harkirat Singh
 - @superteamDAO - Solana community
 - @ethereum - Official Ethereum
 - @solana - Official Solana
-- @thirdweb - Web3 development platform
 
 **Podcasts:**
 
@@ -931,65 +779,110 @@
 - Solana Podcast - Solana ecosystem updates
 - Unchained - Crypto news and interviews
 
-### Books & Documentation
+---
 
-**Essential Reads:**
+## 15. Gamified Learning Platforms
 
-- "Mastering Ethereum" by Andreas M. Antonopoulos
-- "The Bitcoin Standard" by Saifedean Ammous
-- "Mastering Blockchain" by Imran Bashir
-- "Smart Contracts" by Nick Szabo (Articles)
+### CryptoZombies - Interactive Solidity Tutorial
 
-**Official Documentation (Bookmarks These!):**
+- **Official CryptoZombies**  
+  [https://cryptozombies.io/](https://cryptozombies.io/)
+- **What You'll Learn:**
+  - Interactive, game-based Solidity learning
+  - Build a zombie faction factory
+  - NFT fundamentals
+  - Smart contract basics
+  - 400,000+ users completed courses
+- **Cost:** FREE
+- **Time to Complete:** Lesson 1 = 1 sitting; Full course = 8-16 hours
+- **Best For:** Complete beginners with no coding experience
 
-- Ethereum.org Developer Docs
-- Solana Developer Docs
-- Solidity Official Documentation
-- Anchor Framework Docs
+### Speedrun Ethereum - Gamified Blockchain Challenges
+
+- **Official Speedrun Ethereum**  
+  [https://speedrunethereum.com/](https://speedrunethereum.com/)
+- **What You'll Learn:**
+  - NFT creation
+  - Token vending machines (ERC20)
+  - Decentralized exchanges (DEX)
+  - Over-collateralized lending
+  - Prediction markets
+  - Ethereum security
+- **Tools:** Scaffold-ETH 2, Hardhat
+- **Cost:** FREE
+- **Best For:** Hands-on learners who want to build real dApps
+
+### Ethernaut - Smart Contract Security CTF
+
+- **Official Ethernaut**  
+  [https://ethernaut.openzeppelin.com/](https://ethernaut.openzeppelin.com/)
+- **What You'll Learn:**
+  - Smart contract vulnerabilities
+  - Security best practices
+  - Solidity language internals
+  - Bytecode and EVM operations
+  - 24+ levels of increasing difficulty
+- **Cost:** FREE
+- **Best For:** Security-focused learners and intermediate developers
+
+### Capture The Ether - Advanced Solidity Security CTF
+
+- **Official Capture The Ether**  
+  [https://capturetheether.com/](https://capturetheether.com/)
+- **What You'll Learn:**
+  - Advanced smart contract vulnerabilities
+  - Security testing
+  - Exploit writing
+  - EVM deep dive
+- **Difficulty:** Advanced
+- **Cost:** FREE
+- **Best For:** Developers aiming for security careers
 
 ---
 
-## 14. Quick Reference & Checklists
+## Quick Reference & Checklists
 
 ### Beginner Roadmap (Weeks 1-2)
 
 - [ ] Read Bitcoin whitepaper
 - [ ] Complete "Blockchain Basics" course (Cyfrin or Coursera)
+- [ ] Watch Harkirat's "How to Master Web3 in 2024" video
 - [ ] Set up MetaMask wallet
 - [ ] Explore Etherscan (view transactions, smart contracts)
-- [ ] Join Superteam India Discord
-- [ ] Watch 3Blue1Brown Bitcoin video
+- [ ] Join Superteam India & r/web3 communities
+- [ ] Start CryptoZombies Lesson 1
 
 ### Intermediate (Weeks 3-4)
 
-- [ ] Learn Solidity basics using Remix
+- [ ] Learn Solidity basics using Remix & CryptoZombies
 - [ ] Deploy first smart contract on Sepolia testnet
 - [ ] Set up Phantom wallet (for Solana)
-- [ ] Explore Solscan blockchain explorer
-- [ ] Complete "Hello World" smart contract tutorial
-- [ ] Deploy to testnet and verify on explorer
+- [ ] Complete Chainlink "Hello World" tutorial
+- [ ] Join r/ethereum and r/solana Reddit communities
+- [ ] Start Speedrun Ethereum challenges
 
 ### Developer Track (Month 2+)
 
 - [ ] Complete Cyfrin Updraft Solidity course
 - [ ] Build a full dApp (Favorites, Voting, or Counter)
+- [ ] Study Harkirat's 100xDevs Web3 curriculum via GitHub
+- [ ] Learn Rust with Harkirat's 4-hour tutorial
+- [ ] Participate in Ethernaut/Capture The Ether
 - [ ] Contribute to open-source Web3 project
-- [ ] Participate in hackathon
 - [ ] Complete bounties on Superteam Earn
 - [ ] Start applying for Web3 developer roles
 
 ### Blockchain Comparison
 
-| Feature             | Bitcoin      | Ethereum  | Solana           | Arbitrum         |
-| ------------------- | ------------ | --------- | ---------------- | ---------------- |
-| **Launch**          | 2009         | 2015      | 2020             | 2021             |
-| **Consensus**       | PoW          | PoS       | PoH + PoS        | Optimistic PoS   |
-| **Block Time**      | ~10 min      | ~12 sec   | ~400ms           | ~0.25 sec        |
-| **TPS**             | ~7           | ~15-30    | 2,000-65,000     | ~4,000-7,000     |
-| **Tx Fee**          | $2-20        | $1-100    | ~$0.00025        | $0.01-1          |
-| **Language**        | -            | Solidity  | Rust             | Solidity         |
-| **Smart Contracts** | Limited      | Full      | Full             | Full             |
-| **Primary Use**     | Digital Gold | DeFi/NFTs | High-speed dApps | Ethereum scaling |
+| Feature             | Bitcoin | Ethereum | Solana       | Arbitrum       |
+| ------------------- | ------- | -------- | ------------ | -------------- |
+| **Launch**          | 2009    | 2015     | 2020         | 2021           |
+| **Consensus**       | PoW     | PoS      | PoH + PoS    | Optimistic PoS |
+| **Block Time**      | ~10 min | ~12 sec  | ~400ms       | ~0.25 sec      |
+| **TPS**             | ~7      | ~15-30   | 2,000-65,000 | ~4,000-7,000   |
+| **Tx Fee**          | $2-20   | $1-100   | ~$0.00025    | $0.01-1        |
+| **Language**        | -       | Solidity | Rust         | Solidity       |
+| **Smart Contracts** | Limited | ✅ Full  | ✅ Full      | ✅ Full        |
 
 ---
 
@@ -997,23 +890,23 @@
 
 ### Never Share:
 
-- Private Key
-- Seed Phrase (12-24 words)
-- Password to wallet
+- ❌ Private Key
+- ❌ Seed Phrase (12-24 words)
+- ❌ Password to wallet
 
 ### Safe to Share:
 
-- Public Address / Wallet Address
-- Public Key
+- ✅ Public Address / Wallet Address
+- ✅ Public Key
 
 ### Critical Rules:
 
-1. **Write seed phrase on paper** - Store securely offline
-2. **No support will ask for seed phrase** - 100% scam if they do
-3. **Lose seed phrase = Lose funds forever** - No recovery mechanism
-4. **Use hardware wallets** (Ledger, Trezor) for large amounts
-5. **Never use same password** everywhere
-6. **Enable 2FA** on all important accounts
+1. Write seed phrase on paper - Store securely offline
+2. No support will ask for seed phrase - 100% scam if they do
+3. Lose seed phrase = Lose funds forever - No recovery mechanism
+4. Use hardware wallets (Ledger, Trezor) for large amounts
+5. Enable 2FA on all important accounts
+6. Do Your Own Research (DYOR) before investing
 
 ---
 
@@ -1024,7 +917,7 @@
 1. Check official documentation first
 2. Search for similar issues on GitHub
 3. Ask in Superteam India Discord
-4. Post on Stack Exchange (crypto tag)
+4. Post on r/web3 or r/ethereum Reddit
 5. Share in relevant community forums
 
 **Common Issues & Solutions:**
@@ -1039,38 +932,82 @@
 ## Final Tips for Success
 
 1. **Code Along** - Don't just read, actually code
-2. **Deploy Frequently** - Practice deployment on testnet
-3. **Join Communities** - Superteam India, Discord servers
-4. **Follow Best Practices** - Use OpenZeppelin, audit code
-5. **Contribute to Open Source** - Build real experience
-6. **Network** - Attend hackathons, meetups
-7. **Stay Updated** - Follow key developers and projects
-8. **Focus on Fundamentals** - Master basics before advanced topics
+2. **Build Projects** - Apply knowledge to real problems
+3. **Deploy Frequently** - Practice deployment on testnet
+4. **Join Communities** - Engage with developers on Discord/Reddit
+5. **Follow Best Practices** - Use OpenZeppelin, audit code
+6. **Stay Updated** - Follow key developers and projects
+7. **Focus on Fundamentals** - Master basics before advanced topics
+8. **Network** - Attend hackathons, meetups, and Superteam events
 
 ---
 
 ## Resource Index
 
-- **Total Resources:** 150+ links
+- **Total Resources:** 180+ verified working links
 - **Platforms Covered:** 8+ major blockchains
-- **Languages:** Solidity, Rust, JavaScript, TypeScript
-- **Frameworks:** Hardhat, Foundry, Anchor, thirdweb
+- **Languages:** Solidity, Rust, JavaScript, TypeScript, Python, Vyper
+- **Frameworks:** Hardhat, Foundry, Anchor, thirdweb, Alchemy
+- **Gamified Platforms:** CryptoZombies, Speedrun Ethereum, Ethernaut, Buildspace, Capture The Ether
+- **YouTube Creators:** Patrick Collins, Harkirat Singh, Dapp University, and 10+ more
 - **Difficulty:** Beginner → Advanced
 
 ---
 
-**Contribute:** Found a broken link or want to add a resource? Submit a PR or issue!
+## Contribute
+
+Found a broken link or want to add a resource? Submit a PR or issue!
+
+**Github:** [https://github.com/blockchain-hq/learning-resources](https://github.com/blockchain-hq/learning-resources)
 
 ---
 
-**If this guide helped you, please star and share!**
+⭐ **If this guide helped you, please star the repository and share!**
 
-**Questions?** Join Superteam India: [https://in.superteam.fun/](https://in.superteam.fun/)
+💡 **Questions?** Join Superteam India: [https://in.superteam.fun/](https://in.superteam.fun/)
 
-**Ready to build?** Start with Remix IDE: [https://remix.ethereum.org/](https://remix.ethereum.org/)
+🚀 **Ready to build?** Start with Remix IDE: [https://remix.ethereum.org/](https://remix.ethereum.org/)
 
 ---
 
 **License:** MIT - Feel free to share, modify, and distribute this guide
 
 **Disclaimer:** This guide is educational only. Do your own research (DYOR) before investing or deploying contracts to mainnet.
+
+**Last Updated:** November 16, 2025
+
+**Maintained by:** BlockchainHQ Community
+
+---
+
+## Additional Notes for Students
+
+### Why Learn Blockchain Development?
+
+- 🚀 High-demand skillset (MAANG companies hiring)
+- 💰 Competitive salaries (₹25-50+ LPA for seniors; $100k+ USD remote)
+- 🌍 Global opportunities (fully remote work)
+- 🏆 Growing ecosystem (projects launching daily)
+- 📚 Emerging field (best time to get ahead of the curve)
+
+### Time Investment Estimates
+
+- Blockchain Fundamentals: 20-40 hours
+- Solidity Basics: 40-60 hours
+- Building First dApp: 30-50 hours
+- Production-Ready Skills: 200-300 hours
+- **Total for Junior Developer Level:** ~500-600 hours (3-4 months intensive)
+
+### Learning Philosophy
+
+The best way to learn blockchain development is:
+
+1. **Understand concepts** - Read whitepapers, watch videos
+2. **Get hands-on** - Use interactive platforms (CryptoZombies, Speedrun)
+3. **Build projects** - Apply knowledge to real problems
+4. **Join community** - Learn from others, contribute back
+5. **Keep building** - Never stop creating and improving
+
+---
+
+**🎓 Happy Learning! Welcome to Web3! 🎓**
