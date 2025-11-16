@@ -2,10 +2,10 @@
 
 **Last Updated:** November 2025
 
-**Maintained by:** [BlockchainHQ](https://blockchainhq.xyz)
-**Github:** [https://github.com/blockchain-hq](https://github.com/blockchain-hq)
-**Telegram Group:** [https://t.me/c/2450882055/1](https://t.me/c/2450882055/1)
-**Youtube:** [https://www.youtube.com/@blockchainhqxyz](https://www.youtube.com/@blockchainhqxyz)
+**Maintained by:** [BlockchainHQ](https://blockchainhq.xyz) \
+**Github:** [https://github.com/blockchain-hq](https://github.com/blockchain-hq) \
+**Telegram Group:** [https://t.me/c/2450882055/1](https://t.me/c/2450882055/1) \
+**Youtube:** [https://www.youtube.com/@blockchainhqxyz](https://www.youtube.com/@blockchainhqxyz) \
 **X:** [https://x.com/blockchainhqxyz](https://x.com/blockchainhqxyz)
 
 ---
